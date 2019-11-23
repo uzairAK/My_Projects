@@ -15,3 +15,6 @@ This repository is just the listing of my projects done by me. This is to showca
 [Live Calculator](https://play.google.com/store/apps/details?id=com.livecalculator)
 
 [GPA Calculator](https://play.google.com/store/apps/details?id=com.octadoc.gpacalculatorpakistan)
+
+## Static Web Designs
+[Telenor Smart Tunes Prototype](https://telenor-rbt.herokuapp.com/)
