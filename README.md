@@ -1,5 +1,5 @@
 # My Projects
-This repository is just the listing of my projects done by me. This is to showcase my designing and development skills
+This repository is just the listing of my projects done by me. This is to showcase my designing and development skills. Some of them are incomplete so they may act weird but you may get the idea...
 ## Node Projects
 [Medical Researcher](https://medical-researcher.herokuapp.com/)
 
