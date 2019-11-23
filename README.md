@@ -1,4 +1,4 @@
-# My_Projects
+# My Projects
 This repository is just the listing of my projects done by me.
 ## Node Projects
 [Medical Researcher](https://medical-researcher.herokuapp.com/)
