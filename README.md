@@ -9,7 +9,7 @@ This repository is just the listing of my projects done by me. This is to showca
 
 [Karamelize](https://karamelize.herokuapp.com/)
 
-[InternationalShoping](https://internationalshoping.herokuapp.com/)
+[InternationalShoping](https://internationalshoping.herokuapp.com/) => ([Github Repository](https://github.com/uzairAK/internationalshoping-WebApp))
 
 ## React Native and Android Projects
 [Live Calculator](https://play.google.com/store/apps/details?id=com.livecalculator)
