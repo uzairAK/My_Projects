@@ -18,3 +18,11 @@ This repository is just the listing of my projects done by me. This is to showca
 
 ## Static Web Designs
 [Telenor Smart Tunes Prototype](https://telenor-rbt.herokuapp.com/)
+
+<hr/>
+
+## My Social and Freelancing sites:
+
+### Fiverr
+
+http://fiverr.com/users/uzairaezad/
